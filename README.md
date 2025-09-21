@@ -11,8 +11,8 @@ Type of Task-Binary Classification (Supervised Learning)
 Dataset Name: Heart Disease Dataset                                                                        
 Dataset Type: Tabular (Structured)                                                                                               
 No. of Records: 1024                                                                                                                                                                                                
-No. of Features: 14 including the target variable
-Target Variable: target (0 = No Heart Disease, 1 = Heart Disease)
+No. of Features: 14 including the target variable                                                                                                                                        
+Target Variable: target (0 = No Heart Disease, 1 = Heart Disease)                                                                                                                                         
 Source: Kaggle Heart Disease Dataset
 
 # Team Members
@@ -31,10 +31,7 @@ IT24102609 - Godapitiye L.J.V
 
 # How to Run the Code
 
-1)Download the dataset (heart.csv) from the above link or use the provided file.
-
-2)Download the .ipynb notebook file and upload it to Google Colab.
-
-3)Select a GPU runtime (optional, but recommended for faster training).
-
-4)Run all cells to preprocess data, train models, and evaluate performance.
+1)Download the dataset (heart.csv) from the above link or use the provided file.                                                                                                
+2)Download the .ipynb notebook file and upload it to Google Colab.                                                                                                                          
+3)Select a GPU runtime (optional, but recommended for faster training).                                                                                                    
+4)Run all cells to preprocess data, train models, and evaluate performance.                                                                                                               
