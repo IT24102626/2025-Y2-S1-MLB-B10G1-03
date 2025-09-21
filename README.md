@@ -18,10 +18,15 @@ Source: Kaggle Heart Disease Dataset
 # Team Members
 
 IT24102626 - B.L.B.K Bogahapitiya
+
 IT24102569 - Fernando K.N
+
 IT24102635 - Wijerathne P.W.G.I.D
+
 IT24102694 - Premalal A.H.D.N
+
 IT24102690 - Adithya M.A.D.K
+
 IT24102609 - Godapitiye L.J.V
 
 # How to Run the Code
