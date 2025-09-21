@@ -32,6 +32,9 @@ IT24102609 - Godapitiye L.J.V
 # How to Run the Code
 
 1)Download the dataset (heart.csv) from the above link or use the provided file.
+
 2)Download the .ipynb notebook file and upload it to Google Colab.
+
 3)Select a GPU runtime (optional, but recommended for faster training).
+
 4)Run all cells to preprocess data, train models, and evaluate performance.
