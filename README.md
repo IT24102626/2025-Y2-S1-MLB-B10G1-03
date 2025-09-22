@@ -10,7 +10,7 @@ Type of Task-Binary Classification (Supervised Learning)
 
 Dataset Name: Heart Disease Dataset                                                                        
 Dataset Type: Tabular (Structured)                                                                                               
-No. of Records: 1024                                                                                                                                                                                                
+No. of Records: 1026                                                                                                                                                                                                
 No. of Features: 14 including the target variable                                                                                                                                        
 Target Variable: target (0 = No Heart Disease, 1 = Heart Disease)                                                                                                                                         
 Source: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
